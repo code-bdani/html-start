@@ -6,6 +6,21 @@ body {
     background-color: silver;
 }
 
+/*----------START Navigation Styles---------*/
+
+nav ul {
+    display: flex;
+    display: -webkit-flex;
+    list-style-type: none;
+}
+
+nav a {
+    color: cornsilk;
+    padding: 1em;
+}
+
+/*----------END Navigation Styles---------*/
+
 footer {
     background: gold;
     color: rgb(22, 22, 22);
