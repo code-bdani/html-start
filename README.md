@@ -1,1 +1,2 @@
-# html-starter
+# HTML Starter - A Brend-a-long
+Follow the yellow brick road to discover basic HTML and CSS concepts...
